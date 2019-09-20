@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type":"Opportunity",
+                "referenceId":"OpportunityRef1"
+            },
+            "Name":"Hire this Guy",
+            "AccountId":"@AccountRef1",
+            "StageName":"Negotiation/Review",
+            "CloseDate":"2019-10-30",
+            "Interest_Description__c":"We should hire this guy, look at this LinkedIn!",
+            "Experience_URL__c":"https://www.linkedin.com/in/jason-snyder2/"
+        },
+        {
+            "attributes": {
+                "type":"Opportunity",
+                "referenceId":"OpportunityRef2"
+            },
+            "Name":"Add Him to the Team!",
+            "AccountId":"@AccountRef1",
+            "StageName":"Negotiation/Review",
+            "CloseDate":"2019-10-30",
+            "Interest_Description__c":"We should add this guy to the team, look at these badges!",
+            "Experience_URL__c":"https://trailhead.salesforce.com/me/jsnyder4"
+        },
+        {
+            "attributes": {
+                "type":"Opportunity",
+                "referenceId":"OpportunityRef3"
+            },
+            "Name":"Adding a Great Candidate",
+            "AccountId":"@AccountRef1",
+            "StageName":"Negotiation/Review",
+            "CloseDate":"2019-10-30",
+            "Interest_Description__c":"We should hire this guy, look at this LinkedIn!",
+            "Experience_URL__c":"https://www.linkedin.com/in/jason-snyder2/"
+        }
+    ]
+}
